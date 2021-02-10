@@ -5,7 +5,7 @@
     <artifactId>nequi-banking-agents-sdk</artifactId>
     <packaging>jar</packaging>
     <name>nequi-banking-agents-sdk</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>SDK to use Nequi Banking Api from Java.</description>
     <url>http://www.nequi.com</url>
     <licenses>
